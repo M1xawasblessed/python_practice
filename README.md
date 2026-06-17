@@ -1,39 +1,44 @@
-# Python Practice 🚀
+# 🚀 Python Learning Journey
 
-Hi! I'm learning Python step by step.
+Hi 👋 I'm learning Python step by step and uploading my progress here.
 
 ---
 
-## 📚 What I'm learning:
+## 📚 What I'm learning
+
 - Variables
 - Input / Output
+- Data Types
 - If / Else
-- Loops
-- Functions
-- Lists
+- Loops (for)
 
 ---
 
-## 📅 Progress:
+## 📅 Daily Progress
 
 - Day 1: Variables ✔
 - Day 2: Input & Data Types ✔
-- Day 3: If / Else / Elif ✔
+- Day 3: If / Else ✔
+- Day 4: For Loops ✔
 
 ---
 
-## 🛠 Tools:
+## 🛠 Tools
+
 - Python
 - Git & GitHub
+- VS Code
 
 ---
 
-## 🎯 Goal:
-Become a strong Python developer step by step.
+## 🎯 Goal
+
+To become a confident Python developer by building projects and practicing daily.
 
 ---
 
-## 🔥 Projects (coming soon):
-- Calculator
-- Guessing Game
-- To-Do App
+## 🔥 Next Steps
+
+- Lists
+- Functions
+- Mini Projects (Calculator, Guessing Game)
