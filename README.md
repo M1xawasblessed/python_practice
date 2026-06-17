@@ -18,7 +18,7 @@ Hi! I'm learning Python step by step.
 
 - Day 1: Variables ✔
 - Day 2: Input & Data Types ✔
-- Day 3: (coming soon)
+- Day 3: If / Else / Elif ✔
 
 ---
 
@@ -30,3 +30,10 @@ Hi! I'm learning Python step by step.
 
 ## 🎯 Goal:
 Become a strong Python developer step by step.
+
+---
+
+## 🔥 Projects (coming soon):
+- Calculator
+- Guessing Game
+- To-Do App
