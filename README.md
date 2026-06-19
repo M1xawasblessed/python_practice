@@ -1,44 +1,54 @@
 # 🚀 Python Learning Journey
 
-Hi 👋 I'm learning Python step by step and uploading my progress here.
+Hi! I'm learning Python step by step and documenting my progress on GitHub.
 
----
-
-## 📚 What I'm learning
+## 📚 Topics Covered
 
 - Variables
 - Input / Output
 - Data Types
 - If / Else
-- Loops (for)
+- For Loops
+- Lists
 
----
-
-## 📅 Daily Progress
+## 📅 Progress
 
 - Day 1: Variables ✔
 - Day 2: Input & Data Types ✔
 - Day 3: If / Else ✔
-- Day 4: For Loops ✔
+- Day 4: Multiplication Table with Loops ✔
+- Day 5: Game Collection Manager (Lists) ✔
 
----
+## 🛠 Technologies
 
-## 🛠 Tools
-
-- Python
-- Git & GitHub
+- Python 3
+- Git
+- GitHub
 - VS Code
 
----
+## 📂 Projects
 
-## 🎯 Goal
+### Day 4 - Multiplication Table
+A program that generates a multiplication table for a user-provided number.
 
-To become a confident Python developer by building projects and practicing daily.
+### Day 5 - Game Collection Manager
+A console application that allows users to:
+- Add games
+- View their game collection
+- Count total games
+- Exit the application
 
----
+## 🎯 Goals
 
-## 🔥 Next Steps
+- Master Python fundamentals
+- Build mini-projects
+- Learn problem-solving
+- Create a strong developer portfolio
 
-- Lists
+## 🔥 Upcoming Topics
+
 - Functions
-- Mini Projects (Calculator, Guessing Game)
+- Dictionaries
+- Tuples
+- File Handling
+- Object-Oriented Programming (OOP)
