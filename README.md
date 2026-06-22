@@ -15,6 +15,7 @@ Hi! I'm learning Python step by step and documenting my progress on GitHub.
 * Functions
 * Dictionaries
 * Error Handling
+* File Handling
 
 ---
 
@@ -28,6 +29,7 @@ Hi! I'm learning Python step by step and documenting my progress on GitHub.
 * Day 6: Functions & Calculator ✔
 * Day 7: Dictionaries ✔
 * Day 8: Error Handling (try/except) ✔
+* Day 9: Notes App & File Handling ✔
 
 ---
 
@@ -79,6 +81,15 @@ Calculator with error handling using try/except:
 * Prevents crashes from invalid input
 * Demonstrates exception handling
 
+### Day 9 - Notes App
+
+Simple note-taking application that:
+
+* Saves notes to a text file
+* Reads saved notes
+* Uses file handling
+* Uses error handling
+
 ---
 
 ## Goals
@@ -93,7 +104,6 @@ Calculator with error handling using try/except:
 
 ## Upcoming Topics
 
-* File Handling
 * Tuples
 * Sets
 * Modules
@@ -103,8 +113,8 @@ Calculator with error handling using try/except:
 
 ## Current Learning Path
 
-Python Basics → Functions → Dictionaries → Error Handling → File Handling → OOP → Projects
+Python Basics → Functions → Dictionaries → Error Handling → File Handling → OOP → Advanced Projects
 
 ---
 
-Thanks for visiting my repository! 🚀
+Thanks for visiting my repository!
