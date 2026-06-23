@@ -30,6 +30,7 @@ Hi! I'm learning Python step by step and documenting my progress on GitHub.
 * Day 7: Dictionaries ✔
 * Day 8: Error Handling (try/except) ✔
 * Day 9: Notes App & File Handling ✔
+* Day 10: To-Do List App ✔
 
 ---
 
@@ -87,6 +88,16 @@ Simple note-taking application that:
 
 * Saves notes to a text file
 * Reads saved notes
+* Uses file handling
+* Uses error handling
+
+### Day 10 - To-Do List App
+
+Task management application that:
+
+* Adds tasks
+* Saves tasks to a file
+* Reads saved tasks
 * Uses file handling
 * Uses error handling
 
