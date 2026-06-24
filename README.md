@@ -16,6 +16,8 @@ Hi! I'm learning Python step by step and documenting my progress on GitHub.
 * Dictionaries
 * Error Handling
 * File Handling
+* Tuples
+* Sets
 
 ---
 
@@ -31,6 +33,7 @@ Hi! I'm learning Python step by step and documenting my progress on GitHub.
 * Day 8: Error Handling (try/except) ✔
 * Day 9: Notes App & File Handling ✔
 * Day 10: To-Do List App ✔
+* Day 11: Tuples & Sets ✔
 
 ---
 
@@ -101,6 +104,15 @@ Task management application that:
 * Uses file handling
 * Uses error handling
 
+### Day 11 - Tuples and Sets
+
+Program demonstrating:
+
+* Tuple usage
+* Set usage
+* Player categorization by position
+* Counting unique values
+
 ---
 
 ## Goals
@@ -115,8 +127,6 @@ Task management application that:
 
 ## Upcoming Topics
 
-* Tuples
-* Sets
 * Modules
 * Object-Oriented Programming (OOP)
 
@@ -124,7 +134,7 @@ Task management application that:
 
 ## Current Learning Path
 
-Python Basics → Functions → Dictionaries → Error Handling → File Handling → OOP → Advanced Projects
+Python Basics → Functions → Dictionaries → Error Handling → File Handling → Tuples & Sets → OOP → Advanced Projects
 
 ---
 
