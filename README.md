@@ -18,6 +18,7 @@ Hi! I'm learning Python step by step and documenting my progress on GitHub.
 * File Handling
 * Tuples
 * Sets
+* Modules
 
 ---
 
@@ -34,6 +35,7 @@ Hi! I'm learning Python step by step and documenting my progress on GitHub.
 * Day 9: Notes App & File Handling ✔
 * Day 10: To-Do List App ✔
 * Day 11: Tuples & Sets ✔
+* Day 12: Modules & Random Number Game ✔
 
 ---
 
@@ -113,6 +115,15 @@ Program demonstrating:
 * Player categorization by position
 * Counting unique values
 
+### Day 12 - Random Number Game
+
+Simple guessing game that:
+
+* Uses Python modules
+* Generates random numbers
+* Uses user input
+* Demonstrates module importing
+
 ---
 
 ## Goals
@@ -127,14 +138,13 @@ Program demonstrating:
 
 ## Upcoming Topics
 
-* Modules
 * Object-Oriented Programming (OOP)
 
 ---
 
 ## Current Learning Path
 
-Python Basics → Functions → Dictionaries → Error Handling → File Handling → Tuples & Sets → OOP → Advanced Projects
+Python Basics → Functions → Dictionaries → Error Handling → File Handling → Tuples & Sets → Modules → OOP → Advanced Projects
 
 ---
 
