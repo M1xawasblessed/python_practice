@@ -19,6 +19,7 @@ Hi! I'm learning Python step by step and documenting my progress on GitHub.
 * Tuples
 * Sets
 * Modules
+* Object-Oriented Programming (OOP)
 
 ---
 
@@ -36,6 +37,7 @@ Hi! I'm learning Python step by step and documenting my progress on GitHub.
 * Day 10: To-Do List App ✔
 * Day 11: Tuples & Sets ✔
 * Day 12: Modules & Random Number Game ✔
+* Day 13: Introduction to OOP ✔
 
 ---
 
@@ -124,6 +126,16 @@ Simple guessing game that:
 * Uses user input
 * Demonstrates module importing
 
+### Day 13 - Football Player Class
+
+Simple Object-Oriented Programming project that:
+
+* Creates a custom Player class
+* Uses constructors (`__init__`)
+* Creates multiple objects
+* Stores player information
+* Uses object methods to display data
+
 ---
 
 ## Goals
@@ -133,18 +145,23 @@ Simple guessing game that:
 * Build mini-projects
 * Learn Git & GitHub workflow
 * Prepare for internship opportunities
+* Build a strong Python portfolio
 
 ---
 
 ## Upcoming Topics
 
-* Object-Oriented Programming (OOP)
+* Advanced OOP
+* Python Packages
+* APIs
+* SQLite
+* Data Structures & Algorithms
 
 ---
 
 ## Current Learning Path
 
-Python Basics → Functions → Dictionaries → Error Handling → File Handling → Tuples & Sets → Modules → OOP → Advanced Projects
+Python Basics → Functions → Dictionaries → Error Handling → File Handling → Tuples & Sets → Modules → OOP → APIs → Projects
 
 ---
 
