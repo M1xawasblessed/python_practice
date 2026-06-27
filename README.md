@@ -20,6 +20,8 @@ Hi! I'm learning Python step by step and documenting my progress on GitHub.
 * Sets
 * Modules
 * Object-Oriented Programming (OOP)
+* Inheritance
+* Encapsulation
 
 ---
 
@@ -38,6 +40,7 @@ Hi! I'm learning Python step by step and documenting my progress on GitHub.
 * Day 11: Tuples & Sets ✔
 * Day 12: Modules & Random Number Game ✔
 * Day 13: Introduction to OOP ✔
+* Day 14: OOP Encapsulation ✔
 
 ---
 
@@ -136,6 +139,15 @@ Simple Object-Oriented Programming project that:
 * Stores player information
 * Uses object methods to display data
 
+### Day 14 - Football Player Encapsulation
+
+Object-Oriented Programming project that:
+
+* Uses private attributes
+* Demonstrates encapsulation
+* Implements getter and setter methods
+* Updates player salary safely
+
 ---
 
 ## Goals
@@ -151,7 +163,8 @@ Simple Object-Oriented Programming project that:
 
 ## Upcoming Topics
 
-* Advanced OOP
+* Polymorphism
+* Abstraction
 * Python Packages
 * APIs
 * SQLite
@@ -161,7 +174,7 @@ Simple Object-Oriented Programming project that:
 
 ## Current Learning Path
 
-Python Basics → Functions → Dictionaries → Error Handling → File Handling → Tuples & Sets → Modules → OOP → APIs → Projects
+Python Basics → Functions → Dictionaries → Error Handling → File Handling → Tuples & Sets → Modules → OOP → Inheritance → Encapsulation → Advanced Projects
 
 ---
 
