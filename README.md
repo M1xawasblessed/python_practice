@@ -41,6 +41,7 @@ Hi! I'm learning Python step by step and documenting my progress on GitHub.
 * Day 12: Modules & Random Number Game ✔
 * Day 13: Introduction to OOP ✔
 * Day 14: OOP Encapsulation ✔
+* Day 15: Student Management System ✔
 
 ---
 
@@ -148,13 +149,23 @@ Object-Oriented Programming project that:
 * Implements getter and setter methods
 * Updates player salary safely
 
+### Day 15 - Student Management System
+
+Console application that:
+
+* Adds students
+* Stores student objects
+* Displays student information
+* Uses Object-Oriented Programming
+* Manages data in memory using lists
+
 ---
 
 ## Goals
 
 * Master Python fundamentals
 * Improve problem-solving skills
-* Build mini-projects
+* Build real-world mini-projects
 * Learn Git & GitHub workflow
 * Prepare for internship opportunities
 * Build a strong Python portfolio
@@ -174,7 +185,7 @@ Object-Oriented Programming project that:
 
 ## Current Learning Path
 
-Python Basics → Functions → Dictionaries → Error Handling → File Handling → Tuples & Sets → Modules → OOP → Inheritance → Encapsulation → Advanced Projects
+Python Basics → Functions → Dictionaries → Error Handling → File Handling → Tuples & Sets → Modules → OOP → Inheritance → Encapsulation → Real-World Projects → APIs → Databases
 
 ---
 
