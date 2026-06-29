@@ -42,6 +42,7 @@ Hi! I'm learning Python step by step and documenting my progress on GitHub.
 * Day 13: Introduction to OOP ✔
 * Day 14: OOP Encapsulation ✔
 * Day 15: Student Management System ✔
+* Day 16: Bank Management System ✔
 
 ---
 
@@ -158,6 +159,17 @@ Console application that:
 * Displays student information
 * Uses Object-Oriented Programming
 * Manages data in memory using lists
+
+### Day 16 - Bank Management System
+
+Console application that:
+
+* Creates a bank account
+* Deposits money
+* Withdraws money
+* Displays account balance
+* Uses Object-Oriented Programming
+* Implements encapsulation for account balance
 
 ---
 
