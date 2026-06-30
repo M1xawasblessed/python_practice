@@ -43,6 +43,7 @@ Hi! I'm learning Python step by step and documenting my progress on GitHub.
 * Day 14: OOP Encapsulation ✔
 * Day 15: Student Management System ✔
 * Day 16: Bank Management System ✔
+* Day 17: Library Management System ✔
 
 ---
 
@@ -170,6 +171,17 @@ Console application that:
 * Displays account balance
 * Uses Object-Oriented Programming
 * Implements encapsulation for account balance
+
+### Day 17 - Library Management System
+
+Console application that:
+
+* Adds books
+* Views all books
+* Borrows books
+* Returns books
+* Tracks book availability
+* Uses Object-Oriented Programming
 
 ---
 
