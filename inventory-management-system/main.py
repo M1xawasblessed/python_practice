@@ -13,13 +13,36 @@ while True:
 
     if choice == "1":
 
+        # 🔹 Product name
         name = input("Product Name: ")
-        quantity = int(input("Quantity: "))
-        price = float(input("Price (€): "))
 
+        # 🔹 Quantity validation
+        while True:
+            try:
+                quantity = int(input("Quantity: "))
+                if quantity < 0:
+                    print("❌ Quantity cannot be negative!")
+                    continue
+                break
+            except ValueError:
+                print("❌ Enter a valid integer!")
+
+        # 🔹 Price validation (FIXED PART)
+        while True:
+            price_input = input("Price (€): ").replace("$", "").replace("€", "")
+            try:
+                price = float(price_input)
+                if price < 0:
+                    print("❌ Price cannot be negative!")
+                    continue
+                break
+            except ValueError:
+                print("❌ Invalid price! Please enter like 55.99")
+
+        # 🔹 Add product
         inventory.add_product(name, quantity, price)
 
-        print("Product added successfully!")
+        print("✅ Product added successfully!")
 
     elif choice == "2":
 
@@ -31,4 +54,4 @@ while True:
         break
 
     else:
-        print("Invalid option.")
+        print("❌ Invalid option. Try again.")
